@@ -1,0 +1,7 @@
+a=int(input("Enter the value of a : "))
+b=float(input("Enter the value of b : "))
+res = a+int(b)
+print("Type of a : ",type(a))
+print("Type of b : ",type(b))
+print("Type of res : ",type(res))
+print("Result is : ",res)
